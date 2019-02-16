@@ -3,7 +3,7 @@ Android Smartphone for capturing the soil sample images. The setup had unifrom l
 brightness while taking the images.
 The captured images were pre processed and cropped to relevant size for prediction. A deep CNN was used, which on experimenting gave best
 results with 9 layers.<br/ > 
-The final code can be seen in the <code>CNN.py</code> file.<br/ ><pre></pre>
+The final code can be seen in the <code>CNN.py</code> file &nbsp;
 The <code>sample.jpg</code> file shows what the sample images taken from the mobile camera looked like.
 
 This project was undertaken so as to develop a cheap and handy way to predict the soil organic carbon percent directly in the field.
