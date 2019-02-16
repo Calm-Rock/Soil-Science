@@ -2,7 +2,7 @@ The main aim of this project was to predict the Soil Organic Carbon Percent usin
 Android Smartphone for capturing the soil sample images. The setup had unifrom lightning and also contained a dimmer for adjusting the 
 brightness while taking the images.
 The captured images were pre processed and cropped to relevant size for prediction. A deep CNN was used, which on experimenting gave best
-results with 9 layers.<br/ > 
+results with 9 layers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 The final code can be seen in the <code>CNN.py</code> file &nbsp;
 The <code>sample.jpg</code> file shows what the sample images taken from the mobile camera looked like.
 
